@@ -4,7 +4,7 @@ Hi! My name is Mikhail Oleynikov
 Trainee Big Data Engineer
 -------------------------
 
-I'm a highly dedicated and driven professional with an outstanding background in telecommunication, customer services and facilities management. In my free time I was engaged in programming.
+I'm a highly dedicated and driven professional with an outstanding background in telecommunication, customer services and facilities management. In my free time I have been programming.
 
 *   🌍  I'm based in Karasuk, Novosibirsk region, Russia
 *   ✉️  You can contact me at [mn.oleynikov@gmail.com](mailto:mn.oleynikov@gmail.com)
